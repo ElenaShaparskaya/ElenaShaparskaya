@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <h1>Hello there, I'm [your name]</h1>
-  <img src="[insert an image of yourself or something you like]" width="200" />
+  <h1>✨Здравствуйте, меня зовут Лена!✨</h1>
+ <h3>Я занимаюсь веб разработкой.</h3>
   <p>[briefly describe yourself and your interests]</p>
 </div>
 
