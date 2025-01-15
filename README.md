@@ -44,6 +44,7 @@
     <li>PHP.</li>
     <li>Figma.</li>
     <li>CMS Wordpress, Битрикс.</li>
+    <li>1C-программирование.</li>
   </ul>
 </div>
 
